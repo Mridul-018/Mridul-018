@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Mridul Jalan, at present i am pursuing my B.tech in Computer Science
 - 👀 I’m interested in learning cool stuff
 - 🌱 I’m currently learning full stack web developement 
-- 
 
 
 <!---
